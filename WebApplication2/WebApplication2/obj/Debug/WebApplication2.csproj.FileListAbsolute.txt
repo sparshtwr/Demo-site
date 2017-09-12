@@ -1,0 +1,4 @@
+E:\my projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\my projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\my projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\my projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
